@@ -97,3 +97,20 @@ button{
 .hola1{
     padding-top: 50px;
 }
+.hola2{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    box-shadow: 9px 9px 30px gray;
+    border-radius: 7px;
+    height: 35%;
+    
+}
+#full1{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,  #21B573, #85FF7D);
+    border-image-slice: 1;
+    text-align: center;
+}
+#notfull{
+    padding-top: 20px;
+}
